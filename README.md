@@ -64,6 +64,7 @@ Ejecuta los notebooks en orden secuencial:
 4. **Notebook 4**: Clustering
 5. **Notebook 5**: Interpretacion de perfiles
 6. **Notebook 6**: Visualizaciones
+
 Cada notebook genera archivos que son utilizados por el siguiente, por lo que **es importante seguir el orden**.
 
 ## 🛠️ Tecnologías Utilizadas
