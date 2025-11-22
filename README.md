@@ -39,9 +39,10 @@ CENSO2024/
 ├── images/             # Visualizaciones generadas
 ├── Notebook 1 - limpieza_datos.ipynb
 ├── Notebook 2 - estandarizacion_procesamiento.ipynb
-├── Notebook 3 - clustering.ipynb
-├── Notebook 4 - interpretacion de perfiles.ipynb
-├── Notebook 5 - Visualizaciones.ipynb
+├── Notebook 3 - reduccion de dimensionalidad.ipynb
+├── Notebook 4 - clustering.ipynb
+├── Notebook 5 - interpretacion de perfiles.ipynb
+├── Notebook 6 - Visualizaciones.ipynb
 └── requirements.txt
 ```
 
@@ -59,10 +60,10 @@ Ejecuta los notebooks en orden secuencial:
 
 1. **Notebook 1**: Limpieza de datos
 2. **Notebook 2**: Estandarización y procesamiento
-3. **Notebook 3**: Análisis de clustering
-4. **Notebook 4**: Interpretación de perfiles
-5. **Notebook 5**: Visualizaciones finales
-
+3. **Notebook 3**: Reduccion de dimensionalidad
+4. **Notebook 4**: Clustering
+5. **Notebook 5**: Interpretacion de perfiles
+6. **Notebook 6**: Visualizaciones
 Cada notebook genera archivos que son utilizados por el siguiente, por lo que **es importante seguir el orden**.
 
 ## 🛠️ Tecnologías Utilizadas
